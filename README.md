@@ -4,7 +4,7 @@ Chào mọi người, mình đang làm một khóa java để đóng góp tất 
 ---
 **Tóm tắt bản thân**
 
-Work in progress
+Mình tên là HarryCoder(Không thích công khai tên thật :blush:), 14 tuổi, mặc dù là học sinh nhưng mình rất thích tự học lập trình vì có đam mê tin học từ bé. Mình bắt đầu học C/C++ vào năm lớp 6, sau đó học Java rồi cuối cùng mình đang học làm ứng dụng android, làm web bằng kotlin, scala. Ngoài ra thích đọc sách, xem phim, chơi game,... 
 
 ---
 
